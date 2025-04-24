@@ -2,7 +2,7 @@
 
 
 ## Tableau Dashboard
-Link: 
+Link: https://public.tableau.com/app/profile/priyanka.patil5270/viz/park_17455096104530/TourismDynamicsintheU_S_?publish=yes
 
 
 
